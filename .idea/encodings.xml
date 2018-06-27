@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/XmlUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/bulider/Builder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/bulider/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/bulider/ConcreteBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/bulider/Director.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/bulider/Product.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/Factory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/IFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/IProduct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/Product.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/easyFactory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/factory/factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/parctice/Practice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/parctice/Worker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/prototype/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/prototype/ConcretePrototype.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/prototype/Prototype.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/prototype/example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/EnumSingleton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/MyEnum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/Singleton1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/Singleton2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/UpperSingleton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice/src/com/czd/module/singleton/reflectProblem.java" charset="UTF-8" />
+  </component>
+</project>
