@@ -2,7 +2,7 @@ package com.czd.module.builder;
 
 /**
  * Created by Administrator on 2018/1/24.
- * ³éÏó½¨ÔìÀà£¬¸ºÔğ»ñÈ¡²úÆ·£¬²¢ÇÒ¶Ô²úÆ·ÊôĞÔ½øĞĞ¸³Öµ
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½à£¬ï¿½ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½Æ·ï¿½ï¿½ï¿½ï¿½ï¿½Ò¶Ô²ï¿½Æ·ï¿½ï¿½ï¿½Ô½ï¿½ï¿½Ğ¸ï¿½Öµ
  */
 public abstract  class Builder {
     public abstract void setPart(String arg1,String arg2);
