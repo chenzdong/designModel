@@ -1,4 +1,4 @@
-package com.czd.module.factory;
+package com.czd.module.factory.base;
 
 /**
  * Created by Administrator on 2018/1/23.

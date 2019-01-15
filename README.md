@@ -8,4 +8,5 @@
 - 2018/08/01 chainOfReponsibility 责任链模式(新增)
 - 2018/08/03 memento 备忘录模式 add 
 - 2018/08/06 observer 观察者模式 add
+- 2019/01/15 mediator 中介者模式
 
