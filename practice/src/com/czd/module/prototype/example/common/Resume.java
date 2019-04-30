@@ -26,8 +26,8 @@ public class Resume implements Cloneable {
         this.company=company;
     }
     public void display(){
-        System.out.println("个人信息:"+name+age+sex);
-        System.out.println("工作经历:"+timeArea+company);
+        System.out.println("个人信息: "+name+":"+age+":"+sex);
+        System.out.println("工作经历: "+timeArea+":"+company);
     }
     @Override
     public Resume clone()
