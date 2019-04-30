@@ -1,4 +1,4 @@
-package com.czd.module.singleton;
+package com.czd.module.singleton.enumSingleton;
 
 /**
  * @author: czd

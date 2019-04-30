@@ -1,4 +1,4 @@
-package com.czd.module.singleton;
+package com.czd.module.singleton.enumSingleton;
 
 /**
  * 枚举单例

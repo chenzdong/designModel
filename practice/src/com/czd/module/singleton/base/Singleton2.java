@@ -1,4 +1,4 @@
-package com.czd.module.singleton;
+package com.czd.module.singleton.base;
 
 /**
  * Created by Administrator on 2018/1/23.

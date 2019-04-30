@@ -1,4 +1,4 @@
-package com.czd.module.singleton;
+package com.czd.module.singleton.base;
 
 /**
  * 双重加锁机制单例
@@ -11,7 +11,7 @@ public class UpperSingleton {
     private volatile  static UpperSingleton instance = null ;
     private UpperSingleton(){}
     public static UpperSingleton getInstance(){
-        if(instance==null){
+        if(instance == null){
             synchronized (UpperSingleton.class){
                 if (instance == null ) {
                     instance = new UpperSingleton();

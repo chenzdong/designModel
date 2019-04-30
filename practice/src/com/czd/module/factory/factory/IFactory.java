@@ -9,5 +9,5 @@ import com.czd.module.factory.easyFactory.*;
  * @create: 2018/3/8 14:49
  */
 public interface IFactory {
-    public  Operation getOperation();
+    Operation getOperation();
 }
